@@ -1,0 +1,41 @@
+{
+    "publisher": "Akako",
+    "name": "n-darktheme",
+    "displayName": "N-DarkTheme",
+    "description": "N-Dark Theme, with its beautiful colors, creates the ...",
+    "version": "0.1.3",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "galleryBanner": {
+        "color": "#333",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],    
+    "keywords": [
+        "dark",
+        "zdark",
+        "ndark",
+        "theme",
+        "cool",
+        "cyan",
+        "pink",
+        "gold",
+        "magenta",
+        "akako",
+        "cool",
+        "best theme lol"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "N-DarkTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/N-DarkTheme-color-theme.json"
+            }
+        ]
+    }
+}
