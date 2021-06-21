@@ -1,5 +1,5 @@
 <p class="center">
-    <img src="https://discord.com/channels/838356587965710357/838356588456181762/856274180311875644" alt="some code with the 'N-darkTheme' for logo">
+    <img src="./icon.png" alt="some code with the 'N-darkTheme' for logo">
 </p>
 
 <p class="center ">
@@ -25,28 +25,28 @@
         <p class="p HTML_akako">
             HTML
         </p>
-        <img src="" alt="screenshot of html code">
+        <img src="./img3.png" alt="screenshot of html code">
     </p>
 //CSS
     <p class="center">
         <p class="p CSS_akako">
             HTML
         </p>
-        <img src="" alt="screenshot of css code">
+        <img src="./img4.png" alt="screenshot of css code">
     </p>
 //C
     <p class="center">
         <p class="p C_akako">
             C
         </p>
-        <img src="" alt="screenshot of c code">
+        <img src="./img.png" alt="screenshot of c code">
     </p>
 //JS
     <p class="center">
         <p class="p JS_akako">
             JS
         </p>
-        <img src="" alt="screenshot of js code">
+        <img src="./img5.png" alt="screenshot of js code">
     </p>
 </p>
 
