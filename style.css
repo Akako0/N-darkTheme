@@ -1,0 +1,31 @@
+p.p{
+    font-size: 50;
+    font-family:Arial;
+}
+.PYTHON_akako           {
+    color : #fdd849;
+    text-shadow: #927d2b 3px 0;
+}
+.PYTHON_akako::after    {
+    content: "HON";             
+    color: #3172a8;             
+    text-shadow: #1d4464 3px 0; 
+    left: -50%;                
+    position: relative;         
+}
+.HTML_akako             {
+    color: #dc2d00;             
+    text-shadow: #791900 3px 0; 
+}
+.CSS_akako              {
+    color: #2d6bf1;             
+    text-shadow: #2d6bf1 3px 0; 
+}
+.C_akako                {
+    color: #224aa6;             
+    text-shadow: #173069 3px 0; 
+}
+.JS_akako               {
+    color: #ebc800;             
+    text-shadow: #99840c 3px 0; 
+}
