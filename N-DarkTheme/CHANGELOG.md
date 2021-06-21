@@ -16,3 +16,8 @@
 0.1.3 : Change... The icon... thats all...  so i can say i chanded the number from 0.1.2 to 0.1.3....
 
 0.1.4 : Change README.md. enjoy :joy:
+0.1.5 : Try to unbug a bug... #1.
+0.1.6 : Try to unbug a bug... #2.
+0.1.7 : Try to unbug a bug... #3 (help).
+0.1.8 : Try to unbug a bug... #4 (:sob:).
+0.1.9 : Try to unbug a bug...(i'm so stupid for the last one...) #5...
