@@ -1,48 +1,60 @@
 {
-    "publisher": "Akako",
-    "name": "n-darktheme",
-    "displayName": "N-DarkTheme",
-    "description": "N-Dark Theme, with its beautiful colors, creates the ...",
-    "version": "0.1.9",
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Akako0/N-darkTheme"
-    },    
-    "galleryBanner": {
-        "color": "#333",
-        "theme": "dark"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "dark",
-        "zdark",
-        "ndark",
-        "theme",
-        "cool",
-        "cyan",
-        "pink",
-        "gold",
-        "magenta",
-        "akako",
-        "cool",
-        "best theme lol"
+	"publisher": "Akako",
+	"name": "n-darktheme",
+	"displayName": "N-DarkTheme",
+	"description": "N-Dark Theme, with its beautiful colors, creates the ...",
+	"version": "0.2.31",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Akako0/N-darkTheme"
+	},
+	"galleryBanner": {
+		"color": "#333",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
 	],
-    "contributes": {
-        "themes": [
-            {
-                "label": "N-DarkTheme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/N-DarkTheme-color-theme.json"
-            }
-        ],
-        "markdown.previewStyles": [
-            "./style.css"
-        ]
-    }
+	"keywords": [
+		"dark",
+		"zdark",
+		"ndark",
+		"N-dark",
+		"Z-dark",
+		"theme",
+		"cool",
+		"cyan",
+		"pink",
+		"gold",
+		"magenta",
+		"akako",
+		"cool",
+		"best theme (lol)"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "N-DarkTheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/N-DarkTheme-color-theme.json"
+			}
+		],
+		"markdown.previewStyles": [
+			"style.css"
+		]
+	},
+	"__metadata": {
+		"id": "15812d82-1cea-497f-ac04-f0d32be56173",
+		"publisherId": "bb92c484-cad3-4a34-931d-afc57ec4bab2",
+		"publisherDisplayName": "Akakø",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1648713476376
+	}
 }
