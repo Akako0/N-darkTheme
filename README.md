@@ -31,7 +31,6 @@
     </p>
     <hr>
 </p>
-<hr>
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=Akako.z-darktheme">
     <strong>Test also the Z-DarkTheme !</strong>
