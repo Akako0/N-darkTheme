@@ -3,7 +3,7 @@
 	"name": "n-darktheme",
 	"displayName": "N-DarkTheme",
 	"description": "N-Dark Theme, with its beautiful colors, creates the ...",
-	"version": "0.2.31",
+	"version": "0.3.0",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.63.0"
@@ -55,6 +55,6 @@
 		"updated": false,
 		"isPreReleaseVersion": false,
 		"preRelease": false,
-		"installedTimestamp": 1648713476376
+		"installedTimestamp": 1651520989353
 	}
 }
