@@ -31,3 +31,4 @@
 
 **0.3.1** | **Patch** | Function deffinition changed to #D4AF00 (was #A51F31). Icon Changed to match colors.
 **0.3.2** | **Minor** | README.md icon patch, README.md updated
+**0.3.3** | **Patch** | Patch README.md
