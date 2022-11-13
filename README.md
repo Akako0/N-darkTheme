@@ -15,23 +15,22 @@
         Some screenshots of code with the <strong>N-Dark</strong>:
     </p>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/Akako0/N-darkTheme/main/img/python_screenshot.jpg" altt="screenshot of python code">
+        <img src="https://raw.githubusercontent.com/Akako0/N-darkTheme/b481749d2c5fc9f98f22374b7804927f8b62bee2/img/python_screenshot.jpg" alt="screenshot of python code">
     <p>
     <hr>
     <p align="center">
-        <img align="center" src="https://raw.githubusercontent.com/Akako0/N-darkTheme/main/img/html_screenshot.jpg" alt="screenshot of html code">
+        <img align="center" src="https://raw.githubusercontent.com/Akako0/N-darkTheme/b481749d2c5fc9f98f22374b7804927f8b62bee2/img/html_screenshot.jpg" alt="screenshot of html code">
     </p>
     <hr>
     <p align="center">
-        <img align="center" src="https://raw.githubusercontent.com/Akako0/N-darkTheme/main/img/css_screenshot.jpg" alt="screenshot of css code">
+        <img align="center" src="https://raw.githubusercontent.com/Akako0/N-darkTheme/b481749d2c5fc9f98f22374b7804927f8b62bee2/img/css_screenshot.jpg" alt="screenshot of css code">
     </p>
     <hr>
     <p align="center">
-        <img align="center"  src="https://raw.githubusercontent.com/Akako0/N-darkTheme/main/img/javascript_screenshot.jpg" alt="screenshot of c code">
+        <img align="center"  src="https://raw.githubusercontent.com/Akako0/N-darkTheme/b481749d2c5fc9f98f22374b7804927f8b62bee2/img/javascript_screenshot.jpg" alt="screenshot of c code">
     </p>
     <hr>
 </p>
-<hr>
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=Akako.z-darktheme">
     <strong>Test also the Z-DarkTheme !</strong>

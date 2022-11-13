@@ -1,7 +1,7 @@
 {
 	"name": "N-DarkTheme",
 	"type": "dark",
-	"colors": { 
+	"colors": {
     "activityBar.background": "#0E0E16",
 		"activityBar.border": "#0E0E1660",
 		"activityBar.foreground": "#EEF0FF",
@@ -308,7 +308,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#DF001E",
+        "foreground": "#D4AF00",
       }
     },
     {  
