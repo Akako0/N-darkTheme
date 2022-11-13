@@ -1,13 +1,12 @@
-<p align="center">
-    <img src="https://github.com/Akako0/N-darkTheme/raw/HEAD/./icon.png" alt="some code with the 'N-darkTheme' for logo">
+<p class="dark" align="center">
+    <img src="https://raw.githubusercontent.com/Akako0/N-darkTheme/Dark-Blue/icon.png" alt="some code with the 'N-darkTheme' for logo">
 </p>
 <hr>
 <p align="center ">
-    N-Dark Theme, <br>
-    with some beautiful colors, created the... Hmm... I don't remember it... Anyway,<br>
-    It's a perfect theme for you !<br>
-    <strong>Test it and enjoy it ! (and it's free so... DON'T WAIT !)</strong>
-    <p>little tip, you can go to yours settings (Ctrl+,) and go to Text Editor > Cursor - "chanche Cursor Blinking to phase" and check "the Cursor Smooth Caret Animation", you can also check the "Smooth Scroll" in Texte editor for extra smoothness</p>
+    N-Dark Theme is the last theme you'll ever need.<br>
+    Its Dark blue colors will makes you write better code with ease<br>
+    <strong>Test it and you will never you back !</strong>
+    <p>Tips:, you can go to your settings (Ctrl+,) and go to Text Editor > Cursor - "chanche Cursor Blinking to phase" and check "the Cursor Smooth Caret Animation", you can also check the "Smooth Scroll" in Texte editor for extra smoothness</p>
 </p>
 <hr>
 <p>
@@ -36,3 +35,26 @@
     <strong>Test also the Z-DarkTheme !</strong>
     </a>
 </p>
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    :root {
+        color: #fff;
+        background: #171722;
+    }
+    .dark {
+        background: #0E0E16;
+    }
+    hr {
+        border-color: #D4AF00;
+        width: 50%;
+        margin-left: 25%;
+    }
+    img {
+        border-radius: 20px;
+        margin-block: 2rem;
+    }
+</style>
