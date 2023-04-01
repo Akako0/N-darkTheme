@@ -2,8 +2,8 @@
 	"publisher": "Akako",
 	"name": "n-darktheme",
 	"displayName": "N-DarkTheme",
-	"description": "N-Dark Theme, with its beautiful colors, creates the ...",
-	"version": "0.2.31",
+	"description": "N-Dark Theme is the perfect dark theme for you, it has everything you need to write better code. Dark blue background and ",
+	"version": "0.3.3",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.63.0"
@@ -55,6 +55,7 @@
 		"updated": false,
 		"isPreReleaseVersion": false,
 		"preRelease": false,
-		"installedTimestamp": 1648713476376
+		"installedTimestamp": 1668293123950,
+		"isApplicationScoped": false
 	}
 }
