@@ -36,27 +36,4 @@
     <strong>Test also the Z-DarkTheme !</strong>
     </a>
 </p>
-<style>
-    * {
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
-    }
-    .NdarkRoot {
-        color: #fff;
-        background: #171722;
-    }
-    .dark {
-        background: #0E0E16;
-    }
-    .NdarkHr {
-        border-color: #D4AF00;
-        width: 50%;
-        margin-left: 25%;
-    }
-    img {
-        border-radius: 20px;
-        margin-block: 2rem;
-    }
-</style>
 </div>
